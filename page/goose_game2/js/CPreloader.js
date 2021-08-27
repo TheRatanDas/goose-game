@@ -11,9 +11,9 @@ function CPreloader() {
     var _oContainer;
     this._init = function() {
         s_oSpriteLibrary.init(this._onImagesLoaded, this._onAllImagesLoaded, this);
-        s_oSpriteLibrary.addSprite("progress_bar", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/progress_bar.png");
-        s_oSpriteLibrary.addSprite("200x200", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/200x200.jpg");
-        s_oSpriteLibrary.addSprite("but_start", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_start.png");
+        s_oSpriteLibrary.addSprite("progress_bar", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/progress_bar.png");
+        s_oSpriteLibrary.addSprite("200x200", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/200x200.jpg");
+        s_oSpriteLibrary.addSprite("but_start", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_start.png");
         s_oSpriteLibrary.loadSprites();
         _oContainer = new createjs.Container();
         s_oStage.addChild(_oContainer);
