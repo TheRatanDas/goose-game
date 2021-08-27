@@ -43,119 +43,119 @@ function CMain(oData) {
         Howler.mute(!s_bAudioActive);
         s_aSoundsInfo = new Array();
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'game_win',
             loop: false,
             volume: 1,
             ingamename: 'game_win'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'click',
             loop: false,
             volume: 1,
             ingamename: 'click'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'game_over',
             loop: false,
             volume: 1,
             ingamename: 'game_over'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'bonus',
             loop: false,
             volume: 1,
             ingamename: 'bonus'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'cage_impact',
             loop: false,
             volume: 1,
             ingamename: 'cage_impact'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'ghost',
             loop: false,
             volume: 1,
             ingamename: 'ghost'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'malus',
             loop: false,
             volume: 1,
             ingamename: 'malus'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'maze_hit',
             loop: false,
             volume: 1,
             ingamename: 'maze_hit'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'maze_idle',
             loop: false,
             volume: 1,
             ingamename: 'maze_idle'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'sleeping',
             loop: false,
             volume: 1,
             ingamename: 'sleeping'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'step_grass',
             loop: false,
             volume: 1,
             ingamename: 'step_grass'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'step_land',
             loop: false,
             volume: 1,
             ingamename: 'step_land'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'step_wood',
             loop: false,
             volume: 1,
             ingamename: 'step_wood'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'well_in',
             loop: false,
             volume: 1,
             ingamename: 'well_in'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'well_out',
             loop: false,
             volume: 1,
             ingamename: 'well_out'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'dices',
             loop: false,
             volume: 1,
             ingamename: 'dices'
         });
         s_aSoundsInfo.push({
-            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sounds/',
+            path: 'https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sounds/',
             filename: 'soundtrack',
             loop: true,
             volume: 1,
@@ -203,60 +203,60 @@ function CMain(oData) {
     this._loadImages = function() {
         s_oSpriteLibrary.init(this._onImagesLoaded, this._onAllImagesLoaded, this);
         for (var i = 2; i < 7; i++) {
-            s_oSpriteLibrary.addSprite("but_play_" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_play_" + i + ".png");
+            s_oSpriteLibrary.addSprite("but_play_" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_play_" + i + ".png");
         };
         for (var i = 0; i < 6; i++) {
-            s_oSpriteLibrary.addSprite("goose_" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/goose_" + i + ".png");
-            s_oSpriteLibrary.addSprite("player_" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/players/goose_" + i + ".png");
-            s_oSpriteLibrary.addSprite("well_" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/well_" + i + ".png");
-            s_oSpriteLibrary.addSprite("nest_" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/nest_" + i + ".png");
+            s_oSpriteLibrary.addSprite("goose_" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/goose_" + i + ".png");
+            s_oSpriteLibrary.addSprite("player_" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/players/goose_" + i + ".png");
+            s_oSpriteLibrary.addSprite("well_" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/well_" + i + ".png");
+            s_oSpriteLibrary.addSprite("nest_" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/nest_" + i + ".png");
         };
         for (var i = 1; i < 7; i++) {
-            s_oSpriteLibrary.addSprite("dice_a_" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/dice_a_" + i + ".png");
-            s_oSpriteLibrary.addSprite("dice_b_" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/dice_b_" + i + ".png");
+            s_oSpriteLibrary.addSprite("dice_a_" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/dice_a_" + i + ".png");
+            s_oSpriteLibrary.addSprite("dice_b_" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/dice_b_" + i + ".png");
         };
         for (var i = 1; i < 9; i++) {
-            s_oSpriteLibrary.addSprite("square_help" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/square_help" + i + ".png");
+            s_oSpriteLibrary.addSprite("square_help" + i, "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/square_help" + i + ".png");
         };
-        s_oSpriteLibrary.addSprite("logo_menu", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/logo_menu.png");
-        s_oSpriteLibrary.addSprite("logo_game", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/logo_game.png");
-        s_oSpriteLibrary.addSprite("but_play", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_play.png");
-        s_oSpriteLibrary.addSprite("but_dices_on", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_dices0.png");
-        s_oSpriteLibrary.addSprite("but_dices_off", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_dices1.png");
-        s_oSpriteLibrary.addSprite("but_exit", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_exit.png");
-        s_oSpriteLibrary.addSprite("but_info", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_info.png");
-        s_oSpriteLibrary.addSprite("but_continue", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_continue.png");
-        s_oSpriteLibrary.addSprite("but_fullscreen", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_fullscreen.png");
-        s_oSpriteLibrary.addSprite("but_yes", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_yes.png");
-        s_oSpriteLibrary.addSprite("but_no", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_no.png");
-        s_oSpriteLibrary.addSprite("but_back_small", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_back_small.png");
-        s_oSpriteLibrary.addSprite("but_continue_small", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_continue_small.png");
-        s_oSpriteLibrary.addSprite("but_skip_small", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_skip_small.png");
-        s_oSpriteLibrary.addSprite("bg_menu", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/bg_menu.jpg");
-        s_oSpriteLibrary.addSprite("bg_game", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/bg_game.jpg");
-        s_oSpriteLibrary.addSprite("msg_box", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/msg_box.png");
-        s_oSpriteLibrary.addSprite("msg_box_small", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/msg_box_small.png");
-        s_oSpriteLibrary.addSprite("bg_help", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/bg_help.png");
-        s_oSpriteLibrary.addSprite("audio_icon", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/audio_icon.png");
-        s_oSpriteLibrary.addSprite("but_home", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_home.png");
-        s_oSpriteLibrary.addSprite("but_check", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_check.png");
-        s_oSpriteLibrary.addSprite("but_restart", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/but_restart.png");
-        s_oSpriteLibrary.addSprite("logo_ctl", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/logo_ctl.png");
-        s_oSpriteLibrary.addSprite("launch_dices", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/launch_dices.png");
-        s_oSpriteLibrary.addSprite("player_shadow", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/player_shadow.png");
-        s_oSpriteLibrary.addSprite("well", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/well.png");
-        s_oSpriteLibrary.addSprite("cage_back", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/wire_back.png");
-        s_oSpriteLibrary.addSprite("cage_front", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/wire_front.png");
-        s_oSpriteLibrary.addSprite("ghost", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/ghost.png");
-        s_oSpriteLibrary.addSprite("puff", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/puff.png");
-        s_oSpriteLibrary.addSprite("bridge", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/bridge.png");
-        s_oSpriteLibrary.addSprite("maze", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/maze.png");
-        s_oSpriteLibrary.addSprite("eggs", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/eggs.png");
-        s_oSpriteLibrary.addSprite("turn_panel", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/turn_panel.png");
-        s_oSpriteLibrary.addSprite("turns", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/turns.png");
-        s_oSpriteLibrary.addSprite("arrow", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/arrow.png");
-        s_oSpriteLibrary.addSprite("vs_man_panel", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/vs_man_panel.png");
-        s_oSpriteLibrary.addSprite("vs_pc_panel", "https://cdn.jsdelivr.net/gh/TheRatanDas/Ludo@main/page/goose_game2/sprites/vs_pc_panel.png");
+        s_oSpriteLibrary.addSprite("logo_menu", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/logo_menu.png");
+        s_oSpriteLibrary.addSprite("logo_game", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/logo_game.png");
+        s_oSpriteLibrary.addSprite("but_play", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_play.png");
+        s_oSpriteLibrary.addSprite("but_dices_on", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_dices0.png");
+        s_oSpriteLibrary.addSprite("but_dices_off", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_dices1.png");
+        s_oSpriteLibrary.addSprite("but_exit", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_exit.png");
+        s_oSpriteLibrary.addSprite("but_info", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_info.png");
+        s_oSpriteLibrary.addSprite("but_continue", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_continue.png");
+        s_oSpriteLibrary.addSprite("but_fullscreen", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_fullscreen.png");
+        s_oSpriteLibrary.addSprite("but_yes", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_yes.png");
+        s_oSpriteLibrary.addSprite("but_no", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_no.png");
+        s_oSpriteLibrary.addSprite("but_back_small", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_back_small.png");
+        s_oSpriteLibrary.addSprite("but_continue_small", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_continue_small.png");
+        s_oSpriteLibrary.addSprite("but_skip_small", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_skip_small.png");
+        s_oSpriteLibrary.addSprite("bg_menu", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/bg_menu.jpg");
+        s_oSpriteLibrary.addSprite("bg_game", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/bg_game.jpg");
+        s_oSpriteLibrary.addSprite("msg_box", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/msg_box.png");
+        s_oSpriteLibrary.addSprite("msg_box_small", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/msg_box_small.png");
+        s_oSpriteLibrary.addSprite("bg_help", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/bg_help.png");
+        s_oSpriteLibrary.addSprite("audio_icon", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/audio_icon.png");
+        s_oSpriteLibrary.addSprite("but_home", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_home.png");
+        s_oSpriteLibrary.addSprite("but_check", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_check.png");
+        s_oSpriteLibrary.addSprite("but_restart", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/but_restart.png");
+        s_oSpriteLibrary.addSprite("logo_ctl", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/logo_ctl.png");
+        s_oSpriteLibrary.addSprite("launch_dices", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/launch_dices.png");
+        s_oSpriteLibrary.addSprite("player_shadow", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/player_shadow.png");
+        s_oSpriteLibrary.addSprite("well", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/well.png");
+        s_oSpriteLibrary.addSprite("cage_back", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/wire_back.png");
+        s_oSpriteLibrary.addSprite("cage_front", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/wire_front.png");
+        s_oSpriteLibrary.addSprite("ghost", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/ghost.png");
+        s_oSpriteLibrary.addSprite("puff", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/puff.png");
+        s_oSpriteLibrary.addSprite("bridge", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/bridge.png");
+        s_oSpriteLibrary.addSprite("maze", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/maze.png");
+        s_oSpriteLibrary.addSprite("eggs", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/eggs.png");
+        s_oSpriteLibrary.addSprite("turn_panel", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/turn_panel.png");
+        s_oSpriteLibrary.addSprite("turns", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/turns.png");
+        s_oSpriteLibrary.addSprite("arrow", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/arrow.png");
+        s_oSpriteLibrary.addSprite("vs_man_panel", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/vs_man_panel.png");
+        s_oSpriteLibrary.addSprite("vs_pc_panel", "https://cdn.jsdelivr.net/gh/TheRatanDas/goose@main/page/goose_game2/sprites/vs_pc_panel.png");
         RESOURCE_TO_LOAD += s_oSpriteLibrary.getNumSprites();
         s_oSpriteLibrary.loadSprites();
     };
