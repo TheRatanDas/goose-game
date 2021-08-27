@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>GOOSE GAME</title>
+<title>GOOSE GAME - GameMoj</title>
 <link rel="stylesheet" href="page/goose_game2/css/reset.css" type="text/css">
 <link rel="stylesheet" href="page/goose_game2/css/main.css" type="text/css">
 <link rel="stylesheet" href="page/goose_game2/css/orientation_utils.css" type="text/css">
